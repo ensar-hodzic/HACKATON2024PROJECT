@@ -5,7 +5,7 @@
 -Ensar Hodžić
 -Emir Prašović
 -Haris Mešić
--Benajmin Baždar
+-Benjamin Baždar
 -Hajrudin Imamović
 
 ## Naziv Projekta: M A R I N A - AI

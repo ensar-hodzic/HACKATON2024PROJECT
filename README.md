@@ -1,5 +1,5 @@
 # HACKATON2024PROJECT
-##Timski projekat za BEST Hackathon '24
+### Timski projekat za BEST Hackathon '24
 
 ## Ekipa: Illmatic
 ## Članovi:
